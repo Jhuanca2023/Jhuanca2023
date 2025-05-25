@@ -27,8 +27,8 @@
 + Apasionado por el desarrollo web y la innovación tecnológica.
 + En búsqueda activa de prácticas preprofesionales para potenciar mi carrera.
 ```
-- Me encanta construir interfaces modernas, funcionales y centradas en la experiencia del usuario.
-- Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+- Doy soluciones prácticas orientadas al usuario, priorizando la funcionalidad y la eficiencia.
+- Siempre estoy aprendiendo y aplicando nuevas tecnologías para mejorar cada proyecto.
 
 ---
 
