@@ -37,7 +37,7 @@
 <div align="center">
 
 ### 👨‍💻 Lenguajes
-<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,python,js,ts,sql" />
 <br>
 <b>Otros:</b> HTML, CSS, jQuery
 
