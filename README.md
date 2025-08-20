@@ -25,7 +25,7 @@
 
 ```diff
 + Apasionado por el desarrollo web y la innovación tecnológica.
-+ En búsqueda activa de prácticas preprofesionales para potenciar mi carrera.
++Actualmente formo parte de una empresa de desarrollo de software, contribuyendo en la creación de soluciones tecnológicas.
 ```
 - Doy soluciones prácticas orientadas al usuario, priorizando la funcionalidad y la eficiencia.
 - Siempre estoy aprendiendo y aplicando nuevas tecnologías para mejorar cada proyecto.
