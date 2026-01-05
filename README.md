@@ -103,23 +103,28 @@
     <td align="center">
       <a href="https://neonnova.netlify.app/">
         <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/ecommerce.gif" width="120" /><br>
-        <b>NonNova – E-commerce Gamer</b>
+        <b>NeonNova – E-commerce Gamer</b>
       </a>
       <br>
       <sub>Plataforma de comercio electrónico con pagos, autenticación y despliegue cloud.</sub>
     </td>
+
     <td align="center">
-      <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/pos-fast.gif" width="120" /><br>
-      <b>POS-FAST</b>
+      <a href="https://www.linkedin.com/posts/jose-huanca-061392274_softwaredeveloper-react-typescript-activity-7392707716122619904-2Gvt">
+        <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/fitdesk.gif" width="120" /><br>
+        <b>FitDesk – Gestión de Gimnasios</b>
+      </a>
       <br>
-      <sub>Sistema web para pedidos de comida rápida.</sub>
+      <sub>Plataforma integral para centros fitness con IA, pagos, dashboards y microservicios.</sub>
     </td>
+
     <td align="center">
       <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/moviemarket.gif" width="120" /><br>
       <b>MovieMarket</b>
       <br>
       <sub>Gestión de películas, ventas y reportes.</sub>
     </td>
+
     <td align="center">
       <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/emarket.gif" width="120" /><br>
       <b>E-Market</b>
@@ -128,6 +133,7 @@
     </td>
   </tr>
 </table>
+
 
 > **Nota:** ¡Explora mis repos para ver más proyectos y detalles técnicos!
 
