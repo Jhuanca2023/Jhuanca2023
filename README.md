@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Computaci%C3%B3n%20e%20Inform%C3%A1tica-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-En%20Formaci%C3%B3n-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Egresado-Computación%20e%20Informática-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4CAF50?style=flat-square" />
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Trujillo,%20Per%C3%BA-orange?style=flat-square" />
 </p>
 
@@ -24,8 +24,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align:middle"> Sobre mí
 
 ```diff
-+ Apasionado por el desarrollo web y la innovación tecnológica.
-+Actualmente formo parte de una empresa de desarrollo de software, contribuyendo en la creación de soluciones tecnológicas.
++ Egresado en Computación e Informática con pasión por la tecnología.
++ Actualmente formo parte de una empresa de desarrollo de software, contribuyendo en la creación de soluciones tecnológicas.
++ Experiencia en desarrollo Web Full Stack con enfoque en aplicaciones web modernas.
 ```
 - Doy soluciones prácticas orientadas al usuario, priorizando la funcionalidad y la eficiencia.
 - Siempre estoy aprendiendo y aplicando nuevas tecnologías para mejorar cada proyecto.
@@ -82,11 +83,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=36D399&width=600&lines=Microservicios+con+Spring+Boot;GitHub+avanzado+y+automatizaciones;Despliegue+Docker+%2B+CI%2FCD+en+Azure;Arquitectura+moderna+y+DevOps;Desarrollo+Android+e+iOS+con+tecnolog%C3%ADas+cross-platform" alt="Creciendo" />
 </div>
 
-- Microservicios con Spring Boot
-- GitHub avanzado y automatizaciones
-- Despliegue con Docker y CI/CD en Azure
-- Patrones de arquitectura moderna y buenas prácticas DevOps
-- Desarrollo de aplicaciones móviles para Android e iOS
+- Arquitectura de Microservicios con Laravel
+- Patrones de diseño avanzados y Clean Code
+- DevSecOps y seguridad en la nube con AWS y Azure
+- Inteligencia Artificial y Machine Learning con Python
+- Desarrollo móvil Cross-Platform con Flutter
+- Optimización de rendimiento y escalabilidad
+- Arquitectura Hexagonal y DDD (Domain-Driven Design)
 
 ---
 
@@ -130,12 +133,12 @@
 ## 💬 Más sobre mí
 
 <ul>
-  <li>🔭 Actualmente: desarrollando proyectos académicos y personales.</li>
-  <li>👯 Buscando colaborar en proyectos con impacto social o educativo.</li>
-  <li>💬 Pregúntame sobre: APIs, frontend moderno y diseño de interfaz.</li>
+  <li>🔭 Actualmente: Desarrollando soluciones empresariales escalables con tecnologías modernas.</li>
+  <li>👯 Buscando colaborar en proyectos innovadores con impacto tecnológico y social.</li>
+  <li>💬 Pregúntame sobre: Desarrollo Web Full Stack, APIs RESTful, buenas prácticas de programación y resolución de problemas.</li>
   <li>📫 Contacto: <a href="mailto:josehuanca612@gmail.com">josehuanca612@gmail.com</a></li>
   <li>😄 Pronombres: Él / Him</li>
-  <li>⚡ Fun fact: ¡Diseño interfaces hasta en servilletas si me inspiro! 🧠📝</li>
+  <li>⚡ Fun fact: ¡Transformo ideas en código funcional y soluciones innovadoras! 💻✨</li>
 </ul>
 
 ---
