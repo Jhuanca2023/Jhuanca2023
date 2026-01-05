@@ -77,12 +77,12 @@
 </div>
 ---
 
-### 🌱 Actualmente aprendiendo
+
 
 ### 🌱 Actualmente aprendiendo
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36D399&width=700&lines=Arquitectura+de+Microservicios;Patrones+de+Diseño;DevSecOps;Inteligencia+Artificial;Desarrollo+Móvil;Optimización+y+Escalabilidad;Arquitectura+DDD" alt="Tecnologías que estoy aprendiendo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=36D399&width=600&lines=Microservicios+con+Spring+Boot;GitHub+avanzado+y+automatizaciones;Despliegue+Docker+%2B+CI%2FCD+en+Azure;Arquitectura+moderna+y+DevOps;Desarrollo+Android+e+iOS+con+tecnolog%C3%ADas+cross-platform" alt="Creciendo" />
 </div>
 
 - Arquitectura de Microservicios con Laravel
