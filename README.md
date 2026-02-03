@@ -76,9 +76,8 @@
 <b>Otros:</b> Bootstrap
 
 </div>
+
 ---
-
-
 
 ### 🌱 Actualmente aprendiendo
 
@@ -95,48 +94,38 @@
 - Arquitectura Hexagonal y DDD (Domain-Driven Design)
 
 ---
-
 ## 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://neonnova.netlify.app/">
-        <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/ecommerce.gif" width="120" /><br>
+      <a href="https://webneonnova.netlify.app/">
+        <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/neonnova.gif" width="120" /><br>
         <b>NeonNova – E-commerce Gamer</b>
       </a>
       <br>
       <sub>Plataforma de comercio electrónico con pagos, autenticación y despliegue cloud.</sub>
     </td>
-
     <td align="center">
-      <a href="https://www.linkedin.com/posts/jose-huanca-061392274_softwaredeveloper-react-typescript-activity-7392707716122619904-2Gvt">
+      <a href="https://icenterweb.netlify.app/">
+        <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/icenter.gif" width="120" /><br>
+        <b>iCenter – Tienda Tecnológica</b>
+      </a>
+      <br>
+      <sub>E-commerce completo con panel de administración, pagos Stripe, libro de reclamaciones y gestión de inventario.</sub>
+    </td>
+    <td align="center">
+      <a href="https://webfitdesk.netlify.app/">
         <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/fitdesk.gif" width="120" /><br>
         <b>FitDesk – Gestión de Gimnasios</b>
       </a>
       <br>
-      <sub>Plataforma integral para centros fitness con IA, pagos, dashboards y microservicios.</sub>
-    </td>
-
-    <td align="center">
-      <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/moviemarket.gif" width="120" /><br>
-      <b>MovieMarket</b>
-      <br>
-      <sub>Gestión de películas, ventas y reportes.</sub>
-    </td>
-
-    <td align="center">
-      <img src="https://github.com/Jhuanca2023/Jhuanca2023/assets/your-github-username/emarket.gif" width="120" /><br>
-      <b>E-Market</b>
-      <br>
-      <sub>Tienda online de productos esenciales.</sub>
+      <sub>Plataforma integral para centros fitness con gestión de membresías, chatbot con IA y dashboards analíticos.</sub>
     </td>
   </tr>
 </table>
 
-
 > **Nota:** ¡Explora mis repos para ver más proyectos y detalles técnicos!
-
 ---
 
 ## 💬 Más sobre mí
