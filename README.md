@@ -175,9 +175,9 @@
 <h3 align="center">📅 Historial de contribuciones</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=dark&bg=0d1117&accent=36D399&text=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=light&accent=16a34a" />
-    <img width="95%" src="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=dark&bg=0d1117&accent=36D399&text=c9d1d9" alt="Gráfica de contribuciones de Jhuanca2023" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhuanca2023/Jhuanca2023/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhuanca2023/Jhuanca2023/output/github-contribution-grid-snake.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/Jhuanca2023/Jhuanca2023/output/github-contribution-grid-snake-dark.svg" alt="Gráfica de contribuciones de Jhuanca2023" />
   </picture>
 </p>
 
