@@ -174,7 +174,11 @@
 
 <h3 align="center">📅 Historial de contribuciones</h3>
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/36D399/Jhuanca2023" alt="Gráfica de contribuciones de Jhuanca2023" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=dark&bg=0d1117&accent=36D399&text=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=light&accent=16a34a" />
+    <img width="95%" src="https://commitpulse.vercel.app/api/streak?user=Jhuanca2023&view=heatmap&theme=dark&bg=0d1117&accent=36D399&text=c9d1d9" alt="Gráfica de contribuciones de Jhuanca2023" />
+  </picture>
 </p>
 
 ---
